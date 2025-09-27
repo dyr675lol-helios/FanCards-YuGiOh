@@ -1,4 +1,5 @@
 --Cycle - Fusion
+--Created by Helio'Star
 --References: 1. Gem-Knight Fusion 2. Karma of the Destruction Swordsman
 local s,id=GetID()
 function s.initial_effect(c)
