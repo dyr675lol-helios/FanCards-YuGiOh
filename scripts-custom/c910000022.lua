@@ -1,4 +1,5 @@
 --Cyclops of Chaos
+--Created by Helio'Star
 --References: 1 Dark Magician of Chaos 2. Alba-Lenatus the Abyss Dragon 3. Chimeratech Overdragon
 local s,id=GetID()
 function s.initial_effect(c)
