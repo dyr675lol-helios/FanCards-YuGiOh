@@ -1,4 +1,5 @@
 --Cycle - Reincarnation
+--Created by Helio'Star
 --References: 1. Call of the Haunted 2. Junk Synchron
 local s,id=GetID()
 function s.initial_effect(c)
