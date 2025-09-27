@@ -1,4 +1,5 @@
 --Cycle - Elemental Eye
+--Created by Helio'Star
 --References: 1. Hexatellarknight
 local s,id=GetID()
 function s.initial_effect(c)
