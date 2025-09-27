@@ -1,4 +1,5 @@
 --Cycle - Miracle
+--Created by Helio'Star
 --References: 1. Call of the Haunted 2. Phantom Knights Sword
 local s,id=GetID()
 function s.initial_effect(c)
