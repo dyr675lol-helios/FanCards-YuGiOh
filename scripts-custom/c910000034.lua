@@ -1,4 +1,5 @@
 --Cycle - Sword and Shield
+--Ceeated by Helio'Star
 --References: 1. Dogmatikacism 2. Mirror of Yata
 local s,id=GetID()
 function s.initial_effect(c)
