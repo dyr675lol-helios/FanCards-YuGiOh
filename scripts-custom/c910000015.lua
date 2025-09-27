@@ -1,4 +1,5 @@
 --Cyber Cyclops
+--Created by Helio'Star
 --References: Ordeal of a Traveler
 local s,id=GetID()
 function s.initial_effect(c)
