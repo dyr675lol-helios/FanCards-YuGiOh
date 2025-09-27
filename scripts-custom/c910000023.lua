@@ -1,4 +1,5 @@
 --Frenetic Cyclops
+--Created by Helio'Star
 --References: 1. Stelkarknight Delteros
 local s,id=GetID()
 function s.initial_effect(c)
