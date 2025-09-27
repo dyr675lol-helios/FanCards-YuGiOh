@@ -1,4 +1,5 @@
 --Cyclops - Reduction
+--Created by Helio'Star
 --References: 1. Level Down!
 local s,id=GetID()
 function s.initial_effect(c)
