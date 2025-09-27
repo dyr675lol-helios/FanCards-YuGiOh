@@ -1,4 +1,5 @@
 --Sonic Cyclops
+--Created by Helio'Star
 local s,id=GetID()
 function s.initial_effect(c)
 	--Discard
