@@ -1,4 +1,5 @@
 --Gladius the Cursed Cyclops
+--Created by Helio'Star
 local s,id=GetID()
 function s.initial_effect(c)
 	---Cannot declare an attack unless you send 1 card from your Hand to the GY
