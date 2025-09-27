@@ -1,4 +1,5 @@
 --Cycle - Elemental Reunion
+--Created by Helio'Star
 --References: 1. Solemn warning 2. Simorgh Onslaught
 local s,id=GetID()
 function s.initial_effect(c)
