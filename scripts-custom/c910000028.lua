@@ -1,4 +1,5 @@
 --Cycle - Twin Swords
+--Ceeated by Helio'Star
 --References: 1. Crystal Release 2. Amorphiend Blade 3.Voidvelg Morgenstein
 local s,id=GetID()
 function s.initial_effect(c)
