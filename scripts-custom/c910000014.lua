@@ -1,4 +1,5 @@
 --Suicide Cyvlops
+--Created by Helio'Star
 local s,id=GetID()
 function s.initial_effect(c)
     --Flip
