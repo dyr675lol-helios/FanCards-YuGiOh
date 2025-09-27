@@ -1,4 +1,5 @@
 --Elemental Cyclops
+--Created by Helio'Star
 --References: 1. Oneiros, The Dream Mirror Earking 2. Doublebyte Dragon 3. Ancient Gear Frame
 local s,id=GetID()
 function s.initial_effect(c)
