@@ -1,4 +1,5 @@
 --Queen Cyclops
+--Created by Helio'Star
 --References: 1. Yuki Onna the Ice Mayakashi 2. Saryuja Skull Dread
 local s,id=GetID()
 function s.initial_effect(c)
