@@ -1,4 +1,5 @@
 --Cycle - Fortress
+--Ceeated by Helio'Star
 --References: Treasures of the Dead
 local s,id=GetID()
 function s.initial_effect(c)
