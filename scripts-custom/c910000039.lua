@@ -1,4 +1,5 @@
 --Cycle - Denier Ray
+--Created by Helio'Star
 --References: 1. Divine Punishment
 local s,id=GetID()
 function s.initial_effect(c)
